@@ -112,5 +112,7 @@ We may update this Privacy Policy from time to time. If we make material changes
 If you have any questions about this Privacy Policy, please contact us at:
 
 **Grassr Solutions**
+
 **cliniq@grassr.solutions**
+
 **Davao City, Philippines**
