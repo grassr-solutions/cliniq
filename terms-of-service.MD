@@ -37,7 +37,7 @@ You agree not to:
 *   **Your Ownership:** You retain all right, title, and interest in and to your Patient Data. We do not claim any ownership rights in your Patient Data.
 *   **Our Role (Data Processor):** You are the "**Data Controller**" of the Patient Data. Cliniq acts as a "**Data Processor**" (or "**Business Associate**" under HIPAA) on your behalf. We will only access and process your Patient Data in accordance with your instructions, our Privacy Policy, and as required to provide and maintain the Service.
 *   **Security:** We implement and maintain reasonable administrative, physical, and technical safeguards to protect the security, confidentiality, and integrity of your Patient Data. However, no method of transmission over the Internet is 100% secure, and we cannot guarantee absolute security.
-*   **Privacy Policy:** Our collection and use of personal information in connection with the Service is described in our **[Link to Your Privacy Policy]**.
+*   **Privacy Policy:** Our collection and use of personal information in connection with the Service is described in our **[Privacy Policy](https://github.com/grassr-solutions/cliniq/blob/main/privacy-policy.MD)**.
 *   **HIPAA:** If you are a "Covered Entity" under the Health Insurance Portability and Accountability Act (HIPAA), you must enter into a Business Associate Agreement (BAA) with Cliniq before inputting any PHI into the Service.
 
 ## 6. Fees and Payment
@@ -49,7 +49,7 @@ You agree not to:
 
 ## 7. Intellectual Property
 
-All rights, title, and interest in and to the Service, including its "look and feel," branding, logos, and underlying software, are and will remain the exclusive property of [Your Company Name] and its licensors. These Terms do not grant you any right to use the Cliniq name, logo, or other brand features.
+All rights, title, and interest in and to the Service, including its "look and feel," branding, logos, and underlying software, are and will remain the exclusive property of Grassr Solutions and its licensors. These Terms do not grant you any right to use the Cliniq name, logo, or other brand features.
 
 ## 8. Termination
 
