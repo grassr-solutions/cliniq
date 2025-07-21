@@ -2,7 +2,7 @@
 
 **Last Updated:** July 21, 2025
 
-Welcome to Cliniq! These Terms of Service ("**Terms**") govern your use of the Cliniq web application, software, and services (collectively, the "**Service**") provided by [Your Company Name] ("**Cliniq**," "**we**," "**us**," or "**our**").
+Welcome to Cliniq! These Terms of Service ("**Terms**") govern your use of the Cliniq web application, software, and services (collectively, the "**Service**") provided by Grassr Solutions ("**Cliniq**," "**we**," "**us**," or "**our**").
 
 By creating an account or using the Service, you, a licensed medical practitioner ("**User**," "**you**," "**your**"), agree to be bound by these Terms, our Privacy Policy, and, if applicable, a Service Agreement or Business Associate Agreement (BAA). If you do not agree to these Terms, do not use the Service.
 
