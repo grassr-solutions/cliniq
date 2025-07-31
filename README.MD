@@ -32,4 +32,3 @@ Cliniq is an all-in-one Electronic Medical Record (EMR) and clinic management pl
 
 ## About GRASSR SOLUTIONS
 GRASSR SOLUTIONS is based in Davao City, Philippines, and specializes in providing modern digital solutions to empower businesses and professionals.
-```
