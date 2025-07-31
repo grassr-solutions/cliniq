@@ -79,6 +79,8 @@ We implement and maintain reasonable administrative, physical, and technical sec
 
 However, no security system is impenetrable, and we cannot guarantee the absolute security of our systems. You are also responsible for securing your account credentials.
 
+**Scope of Security:** These security safeguards apply only to data stored digitally within the Cliniq platform. Our security protections DO NOT extend to data once it has been exported, downloaded, or printed by a User. The User, as the Data Controller, is solely responsible for implementing their own security measures to protect physical copies of Patient Data and ensuring compliance with all applicable laws for the storage and destruction of such records.
+
 ## 6. Data Retention
 
 We retain your User account information for as long as your account is active or as needed to provide you with the Service.
