@@ -4,6 +4,7 @@ Cliniq is an all-in-one Electronic Medical Record (EMR) and clinic management pl
 ## Core Features
 - **Comprehensive Electronic Medical Records (EMR)**: Maintain a complete and legible digital history for every patient, including personal details, medical history, consultation notes, and prescriptions.
 - **Integrated Appointment Calendar**: A smart, intuitive calendar for scheduling appointments. Features daily, weekly, and monthly views to prevent double-bookings and optimize the doctor's time.
+- **Printable Medical Files & Prescriptions:** Easily generate and print professional-looking patient medical files and prescriptions directly from the platform for physical records or patient handouts.
 - **HIPAA-Compliant AI Assistant**: A groundbreaking feature that supplements a doctor's clinical judgment. The AI analyzes consultation notes to provide potential differential diagnoses, acting as a powerful decision-support tool.
 - **Streamlined Billing & Payment Workflow**: A simple, two-step process for finances. The doctor initiates the bill from the patient's chart, and it instantly appears on a centralized Payment tab for staff to collect and confirm. This creates a clean log for easy accounting.
 - **Secure Cloud-Based Platform**: Access your clinic's data securely from any device, anywhere. Built on a world-class infrastructure to ensure reliability and accessibility.
