@@ -1,6 +1,6 @@
 # Cliniq - Privacy Policy
 
-**Last Updated:** August 1, 2025
+**Last Updated:** August 9, 2025
 
 Welcome to Cliniq. Grassr Solutions ("**Cliniq**," "**we**," "**us**," or "**our**") is committed to protecting the privacy and security of information. This Privacy Policy explains how we collect, use, disclose, and safeguard information when you, a licensed medical practitioner ("**User**," "**you**," "**your**"), use our web application and services (collectively, the "**Service**").
 
@@ -31,7 +31,10 @@ As a core function of the Service, you will provide Patient Data, which may incl
 
 **You represent and warrant that you have a legal basis and have obtained all necessary consents from your patients to collect, process, and disclose their Patient Data using our Service.**
 
-### C. Information from Your Use of the Service
+### C. Information from Third-Party Integrations You Authorize
+*   **Google Calendar Data:** If you choose to connect your Google Calendar to the Service, we will collect data via the Google API to enable the synchronization. This includes information about your calendar events such as event titles, start and end times, and your free/busy status. We access this information on a read-only basis to display your external events within your Cliniq schedule.
+
+### D. Information from Your Use of the Service
 *   **Usage Data:** We automatically collect metadata and analytics on how you interact with the Service, such as features used, clicks, session duration, and other actions. This helps us improve the Service.
 *   **Device and Log Information:** We collect technical information from your device, including IP address, browser type, operating system, and error logs.
 *   **Cookies:** We use cookies and similar technologies to operate the Service, authenticate your session, and remember your preferences.
@@ -53,9 +56,13 @@ Our use of Patient Data is strictly limited by our role as your Personal Informa
 
 **We will NEVER use, sell, rent, or share Patient Data for our own commercial purposes, such as advertising, data mining, or research, without your explicit, separate consent. Patient Data is NOT used to train our AI models for the benefit of other users.**
 
+### C. How We Use Information from Third-Party Integrations
+*   **Google Calendar Data:** We use the data accessed from your Google Calendar for the sole purpose of displaying your external appointments on your Cliniq calendar. This helps you view your availability and avoid scheduling conflicts. **We do not store, share, or use this information for any other purpose. Cliniq will not write or push any Patient Data from the EMR into your Google Calendar.**
+
 ## 4. How We Share Information
 
 We do not sell your personal information or Patient Data. We may share information only in these limited circumstances:
+*   **With Third-Party Integrations You Authorize:** When you connect a Third-Party Service like Google Calendar, we share a secure token with Google to authorize the connection, but we do not share your Patient Data with them.
 *   **With Service Providers:** We engage third-party vendors to perform services on our behalf, such as cloud hosting (Google Cloud Platform) and payment processing. These providers are contractually bound to maintain the confidentiality and security of the data and are prohibited from using it for any other purpose.
 *   **For Legal Compliance:** We may disclose information if we believe in good faith that it is required by law, subpoena, or other legal process, or to protect the rights, property, or safety of Cliniq, our users, or the public.
 *   **Business Transfers:** In the event of a merger, acquisition, or sale of assets, your information may be transferred. We will notify you via email and/or a prominent notice on our Service of any change in ownership.
@@ -79,6 +86,8 @@ We retain your User account information as long as your account is active or as 
 
 We retain Patient Data on your behalf as long as your account is active. Upon termination of your account, you will be given a reasonable period (e.g., 30-60 days) to export your Patient Data. After this period, we will permanently and securely delete your account and all associated Patient Data from our production systems in accordance with our data destruction policies.
 
+Data accessed via third-party integrations like Google Calendar is not permanently stored on our systems and is deleted when the session ends or when you disconnect the integration.
+
 ## 7. Your Rights and Choices
 
 ### A. For Users (Practitioners)
@@ -87,9 +96,14 @@ You have the right to access, update, or correct your own account information at
 ### B. Regarding Your Patients' Rights
 As the PIC, you are responsible for honoring the rights of your patients (Data Subjects) under the DPA, which include the rights to be informed, to access, to object, to erasure or blocking, to rectification, and to data portability. Cliniq, as your PIP, will provide you with the necessary tools within the Service to help you respond to your patients' requests (e.g., exporting or deleting a patient's record). If we receive a request directly from one of your patients, we will direct them to contact you.
 
+### C. Managing Third-Party Integrations
+You can connect or disconnect Third-Party Services like Google Calendar at any time through your account settings. Disconnecting an integration will revoke our access and stop any further data synchronization from that service.
+
 ## 8. HIPAA and International Use
 
-Our Service is designed with security principles that align with HIPAA's technical safeguards. If you are a "Covered Entity" under the U.S. Health Insurance Portability and Accountability Act (HIPAA), you are responsible for determining if you require a Business Associate Agreement (BAA) with Grassr Solutions. Please contact us to initiate this process. For all other users, especially those in the Philippines, the DPA is the primary governing regulation.
+Our Service is designed with security principles that align with HIPAA's technical safeguards. If you are a "Covered Entity" under the U.S. Health Insurance Portability and Accountability Act (HIPAA), you are responsible for determining if you require a Business Associate Agreement (BAA) with Grassr Solutions. Please contact us to initiate this process.
+
+**For integrations like Google Calendar, you are responsible for ensuring your use is HIPAA compliant.** This requires you to have a Google Workspace account and an executed Business Associate Agreement (BAA) with Google that covers the use of Google Calendar. Using a personal/consumer Google account for this feature is not HIPAA compliant.
 
 Your information is processed and stored on secure cloud servers which may be located outside of the Philippines. We rely on the robust data protection agreements and security certifications of our cloud provider (Google Cloud) to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
@@ -101,6 +115,6 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 For any questions about this Privacy Policy or our privacy practices, please contact our Data Protection Officer at:
 
-**Grassr Solutions**  
-Email: `cliniq@grassr.solutions`  
+**Grassr Solutions**
+Email: `cliniq@grassr.solutions`
 Address: Davao City, Philippines
